@@ -8,7 +8,7 @@ Update 1:
 Result:
 
 Clustering of COCO images for randomly sampled 1000 images.
-#[<img src="./images/cover_1.jpg" width="348">]
 
 
-[<img src="./images/Coco-clustering.png"]
+
+#[<img src="./images/Coco-clustering.png"]

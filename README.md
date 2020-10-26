@@ -11,4 +11,4 @@ Clustering of COCO images for randomly sampled 1000 images.
 
 
 
-<img src="./images/Coco-clustering.png"
+<img src="./images/Coco-clustering.png">
